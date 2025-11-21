@@ -1,4 +1,5 @@
 # Accurate-Cyber-Defense-Phishing-Campaign-Bot
+
 Accurate-Cyber-Defense-Phishing-Campaign-Bot is an advanced, automated cybersecurity tool designed to simulate, manage, monitor, and analyze phishing campaigns across organizations of any size.
 Built with precision and adaptability, this tool serves as a powerful asset for cybersecurity teams, penetration testers, red-team operations, security consultants, and organizations committed to strengthening their human-layer security. In today’s digital landscape, phishing remains one of the most successful and widespread attack vectors used by cybercriminals, often exploiting human vulnerabilities rather than technical weaknesses. This bot is engineered to help teams test, train, and prepare employees against real-world phishing threats through controlled, ethical, and measurable campaigns.
 
@@ -36,3 +37,21 @@ The user interface is clean, intuitive, and designed for both beginners and adva
 
 In summary, the Accurate-Cyber-Defense-Phishing-Campaign-Bot is a highly capable, customizable, secure, and analytics-driven platform built for realistic phishing simulation and comprehensive user training. With Telegram-enabled remote management, adaptive phishing logic, powerful analytics, customizable templates, ethical safeguards, and enterprise-grade reporting, this tool stands as a complete solution for building cyber-aware organizations. 
 It empowers teams to stay ahead of phishing threats, reduce human-factor vulnerabilities, and strengthen overall defensive readiness in a world where cyber attacks are becoming increasingly sophisticated and frequent.
+
+
+
+## How to clone the repositoty
+```bash
+git clone https://github.com/Iankulani/Accurate-Cyber-Defense-Phishing-Campaign-Bot.git
+
+cd Accurate-Cyber-Defense-Phishing-Campaign-Bot
+```
+
+
+## How to run 
+
+```bash
+
+python3 Accurate-Cyber-Defense-Phishing-Campaign-Bot.py  
+```
+
